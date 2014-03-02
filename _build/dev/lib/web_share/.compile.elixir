@@ -1,0 +1,2 @@
+/Users/pankajbagwan/code/web_share/_build/dev/lib/web_share/ebin/Elixir.WebShare.Supervisor.beam	Elixir.WebShare.Supervisor	lib/web_share/supervisor.ex	Elixir.Kernel	Elixir.Module	Elixir.Supervisor.Behaviour	Elixir.WebShare.Supervisor	elixir_def	elixir_module	supervisor
+/Users/pankajbagwan/code/web_share/_build/dev/lib/web_share/ebin/Elixir.WebShare.beam	Elixir.WebShare	lib/web_share.ex	Elixir.Application.Behaviour	Elixir.Kernel	Elixir.Module	Elixir.WebShare	Elixir.WebShare.Supervisor	cowboy	cowboy_router	elixir_def	elixir_module
